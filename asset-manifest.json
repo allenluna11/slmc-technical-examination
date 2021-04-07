@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/allenluna11/slmc-technical-examination.git/static/css/main.e0f6323d.chunk.css",
+    "main.js": "/allenluna11/slmc-technical-examination.git/static/js/main.a198e0ab.chunk.js",
+    "main.js.map": "/allenluna11/slmc-technical-examination.git/static/js/main.a198e0ab.chunk.js.map",
+    "runtime-main.js": "/allenluna11/slmc-technical-examination.git/static/js/runtime-main.f5fecb0a.js",
+    "runtime-main.js.map": "/allenluna11/slmc-technical-examination.git/static/js/runtime-main.f5fecb0a.js.map",
+    "static/js/2.d82a5c23.chunk.js": "/allenluna11/slmc-technical-examination.git/static/js/2.d82a5c23.chunk.js",
+    "static/js/2.d82a5c23.chunk.js.map": "/allenluna11/slmc-technical-examination.git/static/js/2.d82a5c23.chunk.js.map",
+    "index.html": "/allenluna11/slmc-technical-examination.git/index.html",
+    "static/css/main.e0f6323d.chunk.css.map": "/allenluna11/slmc-technical-examination.git/static/css/main.e0f6323d.chunk.css.map",
+    "static/js/2.d82a5c23.chunk.js.LICENSE.txt": "/allenluna11/slmc-technical-examination.git/static/js/2.d82a5c23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5fecb0a.js",
+    "static/js/2.d82a5c23.chunk.js",
+    "static/css/main.e0f6323d.chunk.css",
+    "static/js/main.a198e0ab.chunk.js"
+  ]
+}
